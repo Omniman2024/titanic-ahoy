@@ -31,4 +31,4 @@ My Model had a prediction score of **0.77751** and a rank of **5468(out of 15724
 To run this code locally, you need the following Python libraries:
 
 ```python
-pip install pandas numpy xgboost scikit-learn scipy
+pip install pandas numpy xgboost scikit-learn 
